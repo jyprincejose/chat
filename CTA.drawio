@@ -43,6 +43,15 @@
             <mxPoint x="375" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="t-VA8x5v0h3ZRSfZjn-m-18" value="/-Application related&amp;nbsp;&lt;div&gt;Correspondence from HA&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/folder.svg;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="36.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="t-VA8x5v0h3ZRSfZjn-m-21" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t-VA8x5v0h3ZRSfZjn-m-6" target="t-VA8x5v0h3ZRSfZjn-m-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="295" y="207" as="sourcePoint" />
+            <mxPoint x="205" y="258" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
